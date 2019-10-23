@@ -1,0 +1,31 @@
+{
+    "slug": "nintendo-de",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Nintendo of Europe GmbH",
+    "address": "Herriotstraße 4\n60528 Frankfurt am Main\nDeutschland",
+    "email": "dataprotectionofficer@nintendo.de",
+    "web": "https://www.nintendo.de",
+    "sources": [
+        "https://www.nintendo.de/Rechtliche-Informationen/Webseiten-und-My-Nintendo-Store-Datenschutzerklarung/Webseiten-und-My-Nintendo-Store-Datenschutzerklarung-637785.html"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Address",
+            "type": "address"
+        },
+        {
+            "desc": "Email",
+            "type": "input"
+        }
+    ],
+    "suggested-transport-medium": "email"
+}
